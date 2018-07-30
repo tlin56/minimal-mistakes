@@ -16,7 +16,13 @@ last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hey y'all! I'm Jason Lin, a creative soul living & studying in Los Angeles, CA. Currently I'm a doctoral candidate in the Department of Biomathematics under the University of California, Los Angeles.
+
+My current academic advisor is Van Savage.
+
+My research interests are System Biology, Interaction Networks, Decision Making, Evolution, information dynamics in biology & signalling.
+
+Currently, I am working with Van Savage on a summer rotation project. The project embarks on exploring the idea that the trophic interaction dimensionality can be one of the significant stressors for the bimodality in size-ratio distributions of ecological communities.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
