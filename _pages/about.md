@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /about/
-excerpt: "About me"
+# excerpt: "About me"
 author_profile: true
 ---
 
