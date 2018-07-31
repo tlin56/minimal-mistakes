@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a copy of my [resume](http://biona001.github.io/files/benjamin_chu_deedy.pdf).
+Here's a copy of my [resume](http://tlin56.bol.ucla.edu/docs/Jason_Lin_Resume.pdf).
 
