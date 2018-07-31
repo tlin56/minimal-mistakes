@@ -1,6 +1,12 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Blog"
+    url: https://tlin56blog.wordpress.com/
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teach/
+  - title: "Resume"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
